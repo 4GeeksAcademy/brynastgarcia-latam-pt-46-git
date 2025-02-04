@@ -1,3 +1,4 @@
 function saludos () {
-    console.log("Holaaa")
+    const name = "José"
+    console.log("Holaaa " + name)
 }
