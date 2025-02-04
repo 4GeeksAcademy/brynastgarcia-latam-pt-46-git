@@ -6,6 +6,7 @@
     color: #242424;
 }
 body {
-    color: red;
-    background-color: blueviolet;
+    color: black;
+    background-color: aquamarine;
+    min-height: 100vh;
 }
