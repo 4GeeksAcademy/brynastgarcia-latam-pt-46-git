@@ -1,4 +1,5 @@
 function saludos () {
-    const name = "José"
-    console.log("Holaaa " + name)
+    console.log("Holaaa")
+    let fechaActual = new Date();
+    console.log("La fecha y hora actual es:", fechaActual);
 }
